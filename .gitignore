@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+vectordb_store/
+logs/*.log
+.DS_Store
+.vscode/settings.json
